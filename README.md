@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle Wilson</h1>
 <h3 align="center">A passionate full-stack developer from Philadelphia, Pennsylvania</h3>
 
-- 🌱 I’m currently learning **Front-end and Back-end components**
+- 🌱 I’m currently learning **Front-end and Back-end components** with **ML and AI** components.
 
 - 📫 How to reach me **tuk30460@temple.edu**
 
